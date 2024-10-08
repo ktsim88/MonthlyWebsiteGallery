@@ -1,4 +1,19 @@
-
+/* main site */
+body {
+    background-color: #5C80BC;
+}
+nav {
+    background-image: url(imgs/starbg.jpg);
+}
+.btn {
+    background-image: url(imgs/swirlbg.jpg);
+    font-family: "pf-reminder", sans-serif;
+    font-weight: 400;
+font-style: normal;
+}
+.dropdown-menu {
+    background-color: rgb(203, 216, 245);
+}
 /* text */
 h1, h5 {
     font-family: "embury-text", serif;
@@ -11,17 +26,25 @@ p {
     font-style: normal;
 }
 li {
-    font-family: "quicksand", sans-serif;
-    font-weight: 300;
+    font-family: "pf-reminder", sans-serif;
+    font-weight: 400;
     font-style: normal;
 }
 span {
     font-family: "bigcity-grotesque-pro", sans-serif;
     font-weight: 700;
     font-style: normal;
+    color: white;
 }
 #top {
     font-family: "bigcity-grotesque-pro", sans-serif;
     font-weight: 700;
     font-style: normal;
+    color: white;
+    background-color: #015d90;
+}
+
+.navbar-text {
+    color: white;
+    background-color: #015d90;
 }
