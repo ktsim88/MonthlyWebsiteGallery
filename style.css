@@ -1,6 +1,6 @@
 /* main site */
 body {
-    background-color: #5C80BC;
+    background-color: #A9CEF4;
 }
 nav {
     background-image: url(imgs/starbg.jpg);
@@ -47,4 +47,16 @@ span {
 .navbar-text {
     color: white;
     background-color: #015d90;
+}
+img {
+    border: solid 5px white;
+}
+.card {
+    background-image: url(imgs/cardbluebg.jpg);
+    background-repeat: no-repeat;
+    border: solid 5px #401f3e;
+    box-shadow: 10px 10px 2px #312853;
+}
+footer {
+    background-image: url(imgs/lightbluefooterbg.jpg);
 }
