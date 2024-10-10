@@ -60,3 +60,7 @@ img {
 footer {
     background-image: url(imgs/lightbluefooterbg.jpg);
 }
+.card-body:hover {
+    background-color: #1c476b;
+    color: white;
+}
